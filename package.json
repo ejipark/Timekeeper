@@ -1,0 +1,8 @@
+{
+  "name": "timekeeper",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "worker"
+  ]
+}
